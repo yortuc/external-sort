@@ -1,4 +1,4 @@
-# Search Engine Compary Sort
+# External sorting with limited memory
 
 #### Prerequisites
 
